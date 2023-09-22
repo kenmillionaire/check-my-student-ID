@@ -36,14 +36,11 @@ main {
   margin-right: 10px;
 }
 
-/* input[type="text"]{
+.place_name{
   height: 30px;
   width: 300px;
-} */
-
-button {
-  width: 150px;
 }
+
 
 .search-container {
   display: flex;
@@ -139,10 +136,6 @@ ul li ul.dropdown li{
   margin-right: 20px;
  }
 
- .button2 {
-  width: 150px;
-  margin-top: 50px;
- }
 
  h4{
 margin-top: 40px;
